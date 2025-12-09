@@ -1,6 +1,6 @@
 # PoC - Monitoramento Volumétrico de Minério (Computer Vision)
 
-Este repositório contém os códigos-fonte e notebooks desenvolvidos no âmbito da Prova de Conceito (PoC) realizada pela **Quality Digital** para a **Usiminas**.
+Este repositório contém os códigos e notebooks desenvolvidos no âmbito da Prova de Conceito (PoC) realizada pela **Quality Digital** para a **Usiminas**.
 
 ## Objetivo do Projeto
 
